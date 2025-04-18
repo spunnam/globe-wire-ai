@@ -1,0 +1,7 @@
+feedparser           # For parsing RSS feeds
+python-dotenv        # For reading API keys from .env
+requests             # For future web scraping or API calls
+beautifulsoup4       # For parsing HTML (used later)
+chromadb
+sentence-transformers
+
